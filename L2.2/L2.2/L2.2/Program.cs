@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace L2
+namespace L2._2
 {
     class Program
     {
