@@ -1,0 +1,14 @@
+C:\Users\nastya\Desktop\Sigma\Laba1\L1\L1\bin\Debug\netcoreapp3.1\L1.exe
+C:\Users\nastya\Desktop\Sigma\Laba1\L1\L1\bin\Debug\netcoreapp3.1\L1.deps.json
+C:\Users\nastya\Desktop\Sigma\Laba1\L1\L1\bin\Debug\netcoreapp3.1\L1.runtimeconfig.json
+C:\Users\nastya\Desktop\Sigma\Laba1\L1\L1\bin\Debug\netcoreapp3.1\L1.runtimeconfig.dev.json
+C:\Users\nastya\Desktop\Sigma\Laba1\L1\L1\bin\Debug\netcoreapp3.1\L1.dll
+C:\Users\nastya\Desktop\Sigma\Laba1\L1\L1\bin\Debug\netcoreapp3.1\L1.pdb
+C:\Users\nastya\Desktop\Sigma\Laba1\L1\L1\obj\Debug\netcoreapp3.1\L1.csproj.AssemblyReference.cache
+C:\Users\nastya\Desktop\Sigma\Laba1\L1\L1\obj\Debug\netcoreapp3.1\L1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nastya\Desktop\Sigma\Laba1\L1\L1\obj\Debug\netcoreapp3.1\L1.AssemblyInfoInputs.cache
+C:\Users\nastya\Desktop\Sigma\Laba1\L1\L1\obj\Debug\netcoreapp3.1\L1.AssemblyInfo.cs
+C:\Users\nastya\Desktop\Sigma\Laba1\L1\L1\obj\Debug\netcoreapp3.1\L1.csproj.CoreCompileInputs.cache
+C:\Users\nastya\Desktop\Sigma\Laba1\L1\L1\obj\Debug\netcoreapp3.1\L1.dll
+C:\Users\nastya\Desktop\Sigma\Laba1\L1\L1\obj\Debug\netcoreapp3.1\L1.pdb
+C:\Users\nastya\Desktop\Sigma\Laba1\L1\L1\obj\Debug\netcoreapp3.1\L1.genruntimeconfig.cache
